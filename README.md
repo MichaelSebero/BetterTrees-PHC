@@ -1,2 +1,9 @@
-# Dynamic Trees - Pam's Harvestcraft Compat
-mod providing compatability and world gen for Pam's Harvestcraft fruit trees
+# BetterTrees PHC
+
+Dynamic PHC Trees are now thicker.
+
+### Compiling
+* Clone the repository.
+* Open a command prompt/terminal to the repository directory.
+* Run `gradlew build` on Windows, or `./gradlew build` for macOS or Linux.
+* The built jar file will be in `build/libs/`.
