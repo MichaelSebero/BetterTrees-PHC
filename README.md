@@ -1,6 +1,6 @@
 # BetterTrees PHC
 
-Dynamic PHC Trees are now thicker.
+Dynamic PHC Trees are now thicker and variated.
 
 ### Compiling
 * Clone the repository.
